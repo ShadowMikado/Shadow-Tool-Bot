@@ -21,7 +21,7 @@
 ### 📝 Informations Générales
 Ce bot est développé en Python et créé a l'aide de l'API [discord-py-interactions](https://github.com/interactions-py/interactions.py) <img align="center" src="https://avatars.githubusercontent.com/u/98242689?s=200&v=4"  width="25" height="25">
 
-Il est encore en développement et peut comporter des bugs. Si c'est le cas veuillez me contacter sur discord `Shadow#` ou en créant un `Pull Request`
+Il est encore en développement et peut comporter des bugs. Si c'est le cas veuillez me contacter sur discord `ت⃟⃤ Shadow 🙃 | ψ#0817` ou en créant un `Pull Request`
 
 ### 🧰 La Configuration
 dans le dossier du bot se trouve le fichier `config.json` sous cette forme:
