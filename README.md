@@ -1,6 +1,6 @@
 # Shadow Bot 
 
-# ⚠ THIS CODE DOESN'T WORK ANYMORE ⚠
+# ⚠ THIS CODE DOESN'T WORK ANYMORE (7 MONTHS LATER) ⚠
 
 
 ## 🔨 Création du Bot
