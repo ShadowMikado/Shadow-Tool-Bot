@@ -1,0 +1,14 @@
+{
+  "Token": "MTA2MAUi99ODQ4MjkyN1NTMwMA.Gkj1-Y.fzRIwCY6Wu_964smm7CSpH7nG-FeZLSnPgzSMA",
+  "Commands Error": "Vous n'avez pas la permission d'executer cette commande !",
+  "Mute Id": 944973307520909392,
+  "Banned Words": ["discord.gg/","dsc.gg/","youtube.com/","youtu.be/"],
+  "Webhook": "https://discord.com/webhook",
+  "Welcome Channel Id": 1054123572651704730,
+  "Welcome Default Role": 939981586963366800,
+  "Log Channel Id": 10772033932638213220,
+  "OpenAI API Key": "sk-regWW03WV0dyXyH0ob1YAa3471lbkFJTpJNDWNrWBKJC6hz65qa9",
+  "Ticket Access Role Id": [108076654944034010],
+  "Debug": true,
+  "Search API Key": "AIzaSyAH7k9OWw20DI2_dBnjazQutqMdHOOGbEk"
+}
