@@ -1,5 +1,8 @@
 # Shadow Bot 
 
+# ⚠ THIS CODE DOESN'T WORK ANYMORE ⚠
+
+
 ## 🔨 Création du Bot
 1) Rendez vous sur le [Developer Portal](https://discord.com/developer/applications) de discord
 2) Créez un nouveau bot
